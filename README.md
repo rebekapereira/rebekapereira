@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Atualmente trabalhando como analista de testes (QA)
 - 🌱 Estudando HTML| CSS| JAVASCRIPT
 - 😄 Pronouns: Ela/Dela
 
