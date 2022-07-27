@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando HTML| CSS| JAVASCRIPT
+
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
