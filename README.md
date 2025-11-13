@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Rebeka Pereira🦋
 
 🎓 Estudante do curso Técnico Integrado em Informática  
-☁️ Também faço curso de Computação em Nuvem  
+☁️ Computação em Nuvem  
 
 ### 💡 No momento estou aprendendo:
 - Fundamentos de redes e computação em nuvem  
