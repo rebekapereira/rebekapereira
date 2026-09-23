@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rebeka Pereira🦋
 
 🎓 Técnico em Informática  
-🎓 Cursando Bacharelado em Sistemas de Ifnormação
+🎓 Cursando Bacharelado em Sistemas de Informação
 
 
 
