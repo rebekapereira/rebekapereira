@@ -1,11 +1,10 @@
-## Olá! Eu sou a Rebeka Pereira🦋
+## Olá! Eu sou Rebeka Pereira🦋
 
-🎓 Estudante do curso Técnico Integrado em Informática  
-☁️ Computação em Nuvem  
+🎓 Técnico em Informática  
+🎓 Cursando Bacharelado em Sistemas de Ifnormação
 
-### 💡 No momento estou aprendendo:
-- Fundamentos de redes e computação em nuvem  
-- HTML, CSS e desenvolvimento web...  
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Beka-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
